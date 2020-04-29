@@ -1,4 +1,4 @@
-# AlexandreBaronENI-TP9-Reversi2IA
+# TP9-Reversi2IA
 
 Bonjour, ce tp a été réalisé pour le module Java POO de l'ENI en avril 2020.
 
